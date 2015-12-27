@@ -1,11 +1,14 @@
 # 32C3
 
-[.m3u playlist](32c3.m3u) of HD (native language) streams of 32C3 talks
+## Playlist for video streams
+[**.m3u**](32c3.m3u) playlist of HD (native language) [live streams](https://streaming.media.ccc.de/32c3/) of 32C3 talks, which can be opened in most media players.
 
-Order of streams in playlist:
+Streams in playlist:
 
-1. s1... Hall 1
-2. s2... Hall 2
-4. s3... Hall G
-3. s4... Hall 6
+1. 32C3 – Hall 1 – HD Native
+2. 32C3 – Hall 2 – HD Native
+4. 32C3 – Hall G – HD Native
+3. 32C3 – Hall 6 – HD Native
+
+To download the playlist, [click through](32c3.m3u) to it, press the 'Raw' button and save the file to your hard drive. Ta-da!
 
